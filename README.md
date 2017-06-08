@@ -9,7 +9,10 @@ There are just a few thing you have to do, before use it:
     * “yAxisField” – The name of the measure to display on the Y-Axis.
 * Caveat – This is still fixed in size, with more work it could be built completely responsive, etc. to make it adaptable in any size dashboard vs one that is fixed in size. 
 
-If you want to read more details, check out this blogpost written by Chris DeMartini: http://www.datablick.com/blog/2017/3/2/building-towards-d3js-plugins-for-tableau
+
+### Credits
+
+If you want to read more details, check out this blogpost written by Chris DeMartini who pioneered this method at the first time: http://www.datablick.com/blog/2017/3/2/building-towards-d3js-plugins-for-tableau
 
 ### Technical details
 To use this vizualization, you have to replace `tableau.server` to your Tableau Server domain
